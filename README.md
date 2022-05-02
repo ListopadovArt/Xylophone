@@ -12,3 +12,5 @@
 * Error handling in Swift.
 * Code refactoring.
 * Basic debugging.
+
+![Screenshot](Documentation/Xilophone.png)
