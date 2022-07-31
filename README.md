@@ -13,4 +13,9 @@
 * Code refactoring.
 * Basic debugging.
 
-![Screenshot](Documentation/Xilophone.png)
+
+<table>
+  <tr>
+    <td><img src="Documentation/Xilophone.png" width=270 height=480></td>
+    </tr>
+ </table>
